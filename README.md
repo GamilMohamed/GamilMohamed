@@ -16,7 +16,7 @@
 
 <a href="https://github.com/mohazerro/">EXAM RANK 02  <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2881389" alt="mgamil's 42 Exam Rank 02 Score" /></a>
 
-<a href="https://github.com/mohazerro/so_long"><img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2884006" alt="mgamil's 42 so_long Score" /></a>
+<a href="https://github.com/mohazerro/so_long">SO_LONG <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2884006" alt="mgamil's 42 so_long Score" /></a>
 
 
 <hr>
