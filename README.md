@@ -16,6 +16,9 @@
 
 <a href="https://github.com/mohazerro/">EXAM RANK 02  <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2881389" alt="mgamil's 42 Exam Rank 02 Score" /></a>
 
+<a href="https://github.com/mohazerro/so_long"><img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2884006" alt="mgamil's 42 so_long Score" /></a>
+
+
 <hr>
 <p align="right"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
