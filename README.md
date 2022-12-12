@@ -20,6 +20,7 @@
 
 <a href="https://github.com/mohazerro/push_swap">PUSH_SWAP <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2884007" alt="mgamil's 42 push_swap Score" /></a>
 
+<a href="https://github.com/mohazerro/pipex">PIPEX <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2907660" alt="mgamil's 42 pipex Score" /></a>
 
 
 <hr>
