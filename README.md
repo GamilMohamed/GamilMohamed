@@ -23,7 +23,7 @@
 
 <a href="https://github.com/mohazerro">EXAM RANK 03 <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2916643"/></a>
 
-<a href="https://github.com/mohazerro/philosophers">PHILOSOPHERS <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2916644"/</a>
+<a href="https://github.com/mohazerro/philosophers">PHILOSOPHERS <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2916644"/></a>
 
 <a href="https://github.com/mohazerro">MINISHELL <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2922423"/></a>
 
