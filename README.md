@@ -26,9 +26,9 @@
 
 <a href="https://github.com/mohazerro">MINISHELL  <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2922423"/></a>
 
-<a href="https://github.com/mohazerro"> CUB3D <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2922423"/></a>
+<a href="https://github.com/mohazerro"> CUB3D <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2953559"/></a>
 
-<a href="https://github.com/mohazerro"> NetPractice <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2922423"/></a>
+<a href="https://github.com/mohazerro"> NetPractice <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/3051414"/></a>
 
 )
 
