@@ -3,9 +3,9 @@ Welcome to my GitHub profile. I am passionate about [insert your passion or area
 
 ## 🚀 Key Projects
 
-- **[minishell](https://github.com/mohazerro/minishell)**: A simplified Unix shell that I developed, featuring essential functionalities like command execution, signal handling, and input/output redirection.
+- **[Minishell](https://github.com/mohazerro/minishell)**: A simplified Unix shell that I developed, featuring essential functionalities like command execution, signal handling, and input/output redirection.
 
-- **[philosophers](https://github.com/mohazerro/philosophers)**: Concurrency solution for the classic dining philosophers problem. This project demonstrates my skills in handling concurrent processes, synchronization, and deadlock prevention.
+- **[Philosophers](https://github.com/mohazerro/philosophers)**: Concurrency solution for the classic dining philosophers problem. This project demonstrates my skills in handling concurrent processes, synchronization, and deadlock prevention.
 
 ## 🔧 Technologies
 
