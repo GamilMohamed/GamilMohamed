@@ -16,6 +16,7 @@ I primarily work with <strong>C</strong>, <strong>C++</strong>, <strong>Typescri
 You can reach me via [mohamed.gamil@outlook.fr].
 
 Thanks for visiting my profile! 🌟
+</br>
 <p align="center">
 <img width=50 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-line.svg">
 <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
