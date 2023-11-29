@@ -3,11 +3,9 @@ Welcome to my GitHub profile. I am passionate about [insert your passion or area
 
 ## 🚀 Key Projects
 
-- **[ft_printf](link_to_ft_printf)**: Implementation of the `printf` function in C, a fundamental project emphasizing precise variable argument handling and string manipulation.
+- **[minishell](https://github.com/mohazerro/minishell)**: A simplified Unix shell that I developed, featuring essential functionalities like command execution, signal handling, and input/output redirection.
 
-- **[minishell](link_to_minishell)**: A simplified Unix shell that I developed, featuring essential functionalities like command execution, signal handling, and input/output redirection.
-
-- **[philosophers](link_to_philosophers)**: Concurrency solution for the classic dining philosophers problem. This project demonstrates my skills in handling concurrent processes, synchronization, and deadlock prevention.
+- **[philosophers](https://github.com/mohazerro/philosophers))**: Concurrency solution for the classic dining philosophers problem. This project demonstrates my skills in handling concurrent processes, synchronization, and deadlock prevention.
 
 ## 🔧 Technologies
 
