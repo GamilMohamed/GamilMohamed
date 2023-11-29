@@ -9,7 +9,7 @@ Welcome to my GitHub profile. I am passionate about [insert your passion or area
 
 ## 🔧 Technologies
 
-I primarily work with <h3><strong>C</strong>, <strong>C++</strong>, <strong>Typescript</strong>, <strong>Python</strong> and <strong>Rust</strong></h3>, and enjoy discovering new technologies to solve interesting problems
+I primarily work with <strong>C</strong>, <strong>C++</strong>, <strong>Typescript</strong>, <strong>Python</strong> and <strong>Rust</strong>, and enjoy discovering new technologies to solve interesting problems
 
 ## 📫 Contact Me
 
