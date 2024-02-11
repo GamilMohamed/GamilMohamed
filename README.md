@@ -1,5 +1,5 @@
 <h1 align="center"><strong>Hello, I'm Mohamed Gamil! 👋</strong></h1>
-Welcome to my GitHub profile. I am passionate about [insert your passion or area of expertise]. Here you will find a variety of projects I've contributed to, ranging from [mention one or two project types, for example, web applications to automated scripts].
+Welcome to my GitHub profile. I am passionate about learning and coding. Here you will find a variety of projects I've contributed to, ranging from Shell scripts, web projects or even sorting algorithms.
 
 ## 🚀 Key Projects
 
