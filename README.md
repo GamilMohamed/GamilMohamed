@@ -3,13 +3,11 @@ Welcome to my GitHub profile. I am passionate about learning and coding. Here yo
 
 ## 🚀 Key Projects
 
-- **[Minishell](https://github.com/mohazerro/minishell)**: A simplified Unix shell that I developed, featuring essential functionalities like command execution, signal handling, and input/output redirection.
-
-- **[Philosophers](https://github.com/mohazerro/philosophers)**: Concurrency solution for the classic dining philosophers problem. This project demonstrates my skills in handling concurrent processes, synchronization, and deadlock prevention.
+- **[Bingo2025](https://bingo2025-ilo.vercel.app)**: A website where you can set your goals and objectives for 2025
 
 ## 🔧 Technologies
 
-I primarily work with <strong>C</strong>, <strong>C++</strong>, <strong>Typescript</strong>, <strong>Python</strong> and <strong>Rust</strong>, and enjoy discovering new technologies to solve interesting problems
+I primarily work with <strong>TypeScript</strong>, <strong>React</strong>, <strong>Next</strong>, <strong>Python</strong> and <strong>Express</strong>, and enjoy discovering new technologies to solve interesting problems
 
 ## 📫 Contact Me
 
