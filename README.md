@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,30&height=180&section=header&text=Mohamed%20Gamil&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-</div>
 
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=Mohamed%20Gamil&fontSize=70&fontAlignY=50&animation=scaleIn&fontColor=ffffff&fontFamily=Righteous" /> </div><div align="center">
   <a href="https://gamil.is-a.dev">
     <img src="https://img.shields.io/badge/Portfolio-gamil.is--a.dev-20B2AA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
