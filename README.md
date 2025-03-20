@@ -3,7 +3,11 @@ Welcome to my GitHub profile. I am passionate about learning and coding. Here yo
 
 ## 🚀 Key Projects
 
+- **[Portfolio](https://gamil.is-a.dev)**: My portfolio containing most of my projects
+
 - **[Bingo2025](https://bingo2025-ilo.vercel.app)**: A website where you can set your goals and objectives for 2025
+
+- **[Aurele](https://aurele.vercel.app)**: A simple task manager, with priorities and sorting system
 
 ## 🔧 Technologies
 
