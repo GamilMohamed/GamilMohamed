@@ -1,5 +1,8 @@
-
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=Mohamed%20Gamil&fontSize=70&fontAlignY=50&animation=scaleIn&fontColor=ffffff&fontFamily=Righteous" /> </div><div align="center">
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=Mohamed%20Gamil&fontSize=70&fontAlignY=50&animation=scaleIn&fontColor=ffffff&fontFamily=Righteous" />
+</div>
+<div align="center">
   <a href="https://gamil.is-a.dev">
     <img src="https://img.shields.io/badge/Portfolio-gamil.is--a.dev-20B2AA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -11,7 +14,7 @@
 
 <h3 align="center">
   Full-stack developer passionate about crafting elegant solutions to complex problems.
-  <br>
+  <br />
   I love learning new technologies and building innovative projects.
 </h3>
 
@@ -22,7 +25,7 @@
     <tr>
       <td width="33%" align="center">
         <a href="https://gamil.is-a.dev">
-          <img src="https://img.shields.io/badge/Portfolio-View%20Live-ff69b4?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+          <img src="https://img.shields.io/badge/Portfolio-View%20Live-ff69b4?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
           <br />
           <b>Portfolio</b>
         </a>
@@ -31,7 +34,7 @@
       </td>
       <td width="33%" align="center">
         <a href="https://bingo2025-ilo.vercel.app">
-          <img src="https://img.shields.io/badge/Bingo2025-View%20Live-9cf?style=flat-square&logo=vercel&logoColor=white" alt="Bingo2025"/>
+          <img src="https://img.shields.io/badge/Bingo2025-View%20Live-9cf?style=flat-square&logo=vercel&logoColor=white" alt="Bingo2025" />
           <br />
           <b>Bingo2025</b>
         </a>
@@ -40,7 +43,7 @@
       </td>
       <td width="33%" align="center">
         <a href="https://aurele.vercel.app">
-          <img src="https://img.shields.io/badge/Aurele-View%20Live-orange?style=flat-square&logo=vercel&logoColor=white" alt="Aurele"/>
+          <img src="https://img.shields.io/badge/Aurele-View%20Live-orange?style=flat-square&logo=vercel&logoColor=white" alt="Aurele" />
           <br />
           <b>Aurele</b>
         </a>
@@ -67,13 +70,15 @@
 
 <div align="center">
   <a href="mailto:mohamed.gamil@outlook.fr">
-    <img src="https://img.shields.io/badge/Email-mohamed.gamil%40outlook.fr-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-mohamed.gamil%40outlook.fr-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
   <!-- Add your social links here (LinkedIn, Twitter, etc.) if desired -->
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20B2AA&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20B2AA&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!"
+    alt="Typing SVG" />
 </div>
 
 <div align="center">
