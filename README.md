@@ -20,7 +20,7 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="center" width="100%">
   <table>
     <tr>
       <td width="33%" align="center">
@@ -32,7 +32,7 @@
         <br />
         <sub>My showcase of projects and skills</sub>
       </td>
-      <td width="33%" align="center">
+      <td width="40%" align="center">
         <a href="https://bingo2025-ilo.vercel.app">
           <img src="https://img.shields.io/badge/Bingo2025-View%20Live-9cf?style=flat-square&logo=vercel&logoColor=white" alt="Bingo2025" />
           <br />
